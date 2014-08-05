@@ -1,0 +1,4 @@
+erlangnoobs
+===========
+
+erlang for noobs
